@@ -1,7 +1,5 @@
 package hello.advanced.v3.service;
 
-import hello.advanced.trace.HelloTraceV2;
-import hello.advanced.trace.TraceId;
 import hello.advanced.trace.TraceStatus;
 import hello.advanced.trace.logTrace.LogTrace;
 import hello.advanced.v3.repository.OrderRepositoryV3;
